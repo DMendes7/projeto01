@@ -1,56 +1,64 @@
-*{
+* {
     margin: 0;
 }
 
-header .menu{
+header .menu {
 
-    background-color: rgb(113, 113, 121);}
+    background-color: rgb(113, 113, 121);
+}
 
-.destaques{
+.destaques {
 
     padding-bottom: 20px;
 
-    background-color: rgba(113, 113, 121, 0.551);}
+    background-color: rgba(113, 113, 121, 0.551);
+}
 
-.destaques .titulo{
+.destaques .titulo {
 
     text-align: center;
     background-color: rgba(113, 113, 121, 0.551);
-        padding: 2px;
+    padding: 2px;
 }
 
-.trailer{
+.trailer {
 
     text-align: center;
-    background-color: rgba(113, 113, 121, 0.551);}
+    background-color: rgba(113, 113, 121, 0.551);
+}
 
-.trailer iframe{
+.trailer iframe {
 
     width: 100%;
     height: 100%;
-    background-color: rgba(113, 113, 121, 0.551);}
-.lancamentos{
+    background-color: rgba(113, 113, 121, 0.551);
+}
+
+.lancamentos {
 
     background-color: rgba(113, 113, 121, 0.551);
     padding: 2% 8% 2% 8%;
 }
 
-.lancamentos iframe{
+.lancamentos iframe {
 
     width: 95%;
     height: 65%;
-    background-color: rgba(113, 113, 121, 0.551);}
-
-.plataformas{
- 
-    background-color: rgba(113, 113, 121, 0.551);    padding: 2% 8% 2% 8%;
+    background-color: rgba(113, 113, 121, 0.551);
 }
 
-.publishers{
-    background-color: rgba(113, 113, 121, 0.551);    padding: 2% 8% 2% 8%;
+.plataformas {
+
+    background-color: rgba(113, 113, 121, 0.551);
+    padding: 2% 8% 2% 8%;
 }
 
-footer{
+.publishers {
+    background-color: rgba(113, 113, 121, 0.551);
+    padding: 2% 8% 2% 8%;
+}
 
-    background-color: rgb(113, 113, 121);}
+footer {
+
+    background-color: rgb(113, 113, 121);
 }

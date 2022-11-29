@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+}
+
+header .menu{
+
+    background-color: rgb(221, 240, 247);
+}
+
+.destaques{
+
+    padding-bottom: 20px;
+}
+
+.destaques .titulo{
+
+    text-align: center;
+    padding: 2px;
+}
+
+.trailer{
+
+    text-align: center;
+}
+
+.trailer iframe{
+
+    width: 100%;
+    height: 100%;
+}
+
+.lancamentos{
+
+    background-color: rgb(221, 240, 247);
+    padding: 2% 8% 2% 8%;
+}
+
+.lancamentos iframe{
+
+    width: 95%;
+    height: 65%;
+}
+
+.plataformas{
+ 
+    background-color: rgb(255, 255, 255);
+    padding: 2% 8% 2% 8%;
+}
+
+.publishers{
+
+    background-color: rgb(221, 240, 247);
+    padding: 2% 8% 2% 8%;
+}
+
+footer{
+
+    background-color: rgb(255, 255, 255);
+}

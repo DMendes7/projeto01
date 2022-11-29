@@ -10,13 +10,14 @@ header .menu {
 .destaques {
 
     padding-bottom: 20px;
-color: rgba(113, 113, 121, 0.284);
+
+    background-color: rgba(113, 113, 121, 0.284);
 }
 
 .destaques .titulo {
 
     text-align: center;
-color: rgba();
+    background-color: rgba(113, 113, 121, 0.284);
     padding: 2px;
 }
 
@@ -30,7 +31,7 @@ color: rgba();
 
     width: 100%;
     height: 100%;
-    color: rgba(113, 113, 121, 0.284);
+    background-color: rgba(113, 113, 121, 0.284);
 }
 
 .lancamentos {

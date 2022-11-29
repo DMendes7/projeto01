@@ -11,32 +11,32 @@ header .menu {
 
     padding-bottom: 20px;
 
-    background-color: rgba(113, 113, 121, 0.551);
+    background-color: rgba(113, 113, 121, 0.284);
 }
 
 .destaques .titulo {
 
     text-align: center;
-    background-color: rgba(113, 113, 121, 0.551);
+    background-color: rgba(113, 113, 121, 0.284);
     padding: 2px;
 }
 
 .trailer {
 
     text-align: center;
-    background-color: rgba(113, 113, 121, 0.551);
+    background-color: rgba(113, 113, 121, 0.284);
 }
 
 .trailer iframe {
 
     width: 100%;
     height: 100%;
-    background-color: rgba(113, 113, 121, 0.551);
+    background-color: rgba(113, 113, 121, 0.284);
 }
 
 .lancamentos {
 
-    background-color: rgba(113, 113, 121, 0.551);
+    background-color: rgba(113, 113, 121, 0.284);
     padding: 2% 8% 2% 8%;
 }
 
@@ -44,17 +44,17 @@ header .menu {
 
     width: 95%;
     height: 65%;
-    background-color: rgba(113, 113, 121, 0.551);
+    background-color: rgba(113, 113, 121, 0.284);
 }
 
 .plataformas {
 
-    background-color: rgba(113, 113, 121, 0.551);
+    background-color: rgba(113, 113, 121, 0.284);
     padding: 2% 8% 2% 8%;
 }
 
 .publishers {
-    background-color: rgba(113, 113, 121, 0.551);
+    background-color: rgba(113, 113, 121, 0.284);
     padding: 2% 8% 2% 8%;
 }
 
